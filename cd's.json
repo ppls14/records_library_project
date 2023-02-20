@@ -1,0 +1,37 @@
+[
+    {
+        "id" : 1,
+        "title" : "Master of Puppets",
+        "artist" : "Metallica",
+        "genre" : "Trash metal",
+        "released" : "1986"
+    },
+    {
+        "id" : 2,
+        "title" : "Mezzanine",
+        "artist" : "Massive Attack",
+        "genre" : "Electronic",
+        "released" : "1998"
+    },
+    {
+        "id" : 3,
+        "title" : "21",
+        "artist" : "Adele",
+        "genre" : "Soul, pop, R&B",
+        "released" : "2011"
+    },
+    {
+        "id" : 4,
+        "title" : "The Black Album",
+        "artist" : "Jay-Z",
+        "genre" : "Hip hop",
+        "released" : "2003"
+    },
+    {
+        "id" : 5,
+        "title" : "Anthem of the Peaceful Army",
+        "artist" : "Greta Van Fleet",
+        "genre" : "Hard rock, blues rock",
+        "released" : "2018"
+    }
+]
